@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  repeat rythme
+
+  Created by Θεόδωρος Δεληγιαννίδης on 4/24/14.
+  Copyright (c) 2014 NA. All rights reserved.
+*/
+"PLAY_BUTTON"="Spielen";
+"SHARE_BUTTON"="Teilen";

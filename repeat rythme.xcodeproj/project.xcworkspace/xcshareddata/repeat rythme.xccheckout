@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>653CE495-6714-4FE8-B0D5-A38D5F7CD92A</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>91F1B2B4B984221FDA491F02BFBD5E8B262AEB60</key>
+		<string>https://github.com/jerols/PopTut.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>91F1B2B4B984221FDA491F02BFBD5E8B262AEB60</key>
+		<string>PopTut</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jerols/PopTut.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>91F1B2B4B984221FDA491F02BFBD5E8B262AEB60</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>91F1B2B4B984221FDA491F02BFBD5E8B262AEB60</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PopTut</string>
+		</dict>
+	</array>
+</dict>
+</plist>
